@@ -25,7 +25,7 @@ This project addresses these challenges through a systematic ML workflow and eva
 .
 ├── Data/
 │   └── skin cancer data_transformed_2_classes.csv
-├── refactored_skin_cancer_analysis_latest.ipynb
+├── skin-cancer-ml-risk-prediction.ipynb
 ├── README.md
 ````
 
